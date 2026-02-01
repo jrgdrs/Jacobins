@@ -11,14 +11,6 @@ master_ufo
 instance_ufos
 .ninja_log
 build.ninja
-custom
-out
-artifact
-test
-dorm
-versions*
-
-
 
 # OS generated files #
 ######################

@@ -27956,7 +27956,6 @@ weightClass = 600;
 axesValues = (
 700
 );
-exports = 0;
 instanceInterpolations = {
 m002 = 0.25;
 m01 = 0.75;
